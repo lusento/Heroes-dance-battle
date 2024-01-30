@@ -1,4 +1,4 @@
-<p align="center">Предпросмотр сайта</p>
+<p align="center"><strong>Предпросмотр сайта</strong> ⬇️</p>
 
 ![Главная страница проекта](/preview-png/background.png)
 
