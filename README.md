@@ -10,7 +10,7 @@
 
 - **HTML 5**
 - **CSS 3**
-- **JS**
+- **JawaScript**
 
 ## 📆 План на будущее
 
@@ -39,7 +39,11 @@ upd: исходники можно скачать в течение 14 дней 
 - **Вы можете распространять проект, включая в коммерческих целях.**
 
 </div>
-  
+
+<h5 align='left' style='margin: 0 auto 48px; max-width: 80%'>
+  Project <a target="_blank" href="https://github.com/lusento"><b>lusento</b></a>.<a target="_blank" href="https://github.com/lusento/Heroes-dance-battle"><b>Heroes dance battle (HRS)</b></a> is distributed under the MIT license.
+</h5>
+
 <h4 align='center' style='margin: 32px auto; max-width: 80%'>
    Made with 💖 by
   <a target="_blank" href="https://github.com/lusento">
