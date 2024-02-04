@@ -48,5 +48,5 @@ upd: **исходники** можно скачать в течение **14 д�
 </h4>
 
 <h4 align="center" style="margin: 32px auto; max-width: 70%">
-   Частично позаимствовано у -<b>lexpearson</b> <a target="_blank" href="https://github.com/lexpearson"><b></b> 
-</h4>   
+   Частично позаимствовано у <b>lexpearson</b> <a target="_blank" href="https://github.com/lexpearson">lexpearson</a>
+</h4>
